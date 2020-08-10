@@ -1312,5 +1312,3 @@
     let disp = document.getElementById('disp')
     disp.innerHTML = dispData
     console.log(dispData)
-// }
-
